@@ -22,4 +22,4 @@ aplayer静态网页播放器
 
 
 
-![](https://cdn.jsdelivr.net/gh/a2396837/hexophoto/hexophoto/v223t344hrhfdbbsbs.jpg)
+<img src="https://cdn.jsdelivr.net/gh/a2396837/hexophoto/hexophoto/v223t344hrhfdbbsbs.jpg" width="50%" height="50%">
